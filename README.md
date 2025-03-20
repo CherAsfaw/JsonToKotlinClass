@@ -10,7 +10,7 @@
 [![Kotlin](https://img.shields.io/badge/%20language-Kotlin-blueviolet.svg)](https://kotlinlang.org/)
 [![IntelliJ Idea Plugin](https://img.shields.io/badge/plugin-IntelliJ%20%20Idea-blue.svg)](https://plugins.jetbrains.com/plugin/9960-jsontokotlinclass)
 [![Android Studio Plugin](https://img.shields.io/badge/plugin-AndroidStudio-green.svg)](https://plugins.jetbrains.com/plugin/9960-jsontokotlinclass)
-
+<!-- 15555 -->
 # JsonToKotlinClass
 Hi, Welcome! This is a plugin to generate Kotlin `data class` from JSON string, in another word, a plugin that converts JSON string to Kotlin `data class` (Json to Kotlin).
 We also have a `Java/Kotlin` [library](doc/LIBRARY.md). With this you can generate Kotlin `data class` from JSON string **programmatically**. 
